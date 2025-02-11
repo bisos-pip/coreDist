@@ -1,1 +1,0 @@
-bisos.coreDist: A wrapper for packaging of BISOS Data files for insertion into /bisos/dist.
