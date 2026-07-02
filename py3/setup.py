@@ -73,7 +73,7 @@ scripts = [
 ####+BEGIN: b:py3:pypi:setup/dataFiles :comment "Instead of ./MANIFEST.in or in pyproject.toml"
 
 data_files = [
-(' ',  ['lh-agpl3-LICENSE.txt', '_description.org', 'README.rst']),
+('',  ['lh-agpl3-LICENSE.txt', '_description.org', 'README.rst']),
 ]
 ####+END:
 
